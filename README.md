@@ -10,7 +10,7 @@ there's also a ambience sound playing in the background for a chill day
 
 the music been played and ambience sounds can be changed from the youtube links inside the script
 
-##usage
+usage
 ---
 
 clone the repo from https://github.com/addyett/pomodorow.git
