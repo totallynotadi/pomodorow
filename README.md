@@ -1,5 +1,6 @@
 # pomodorow
 a timer and music script as a companion for your pomodorow sessions
+---
 
 plays music from popular lofi playlists on youtube
 
@@ -8,7 +9,9 @@ the timer provides 25 minutes of work time followed by 5 minutes of break time. 
 there's also a ambience sound playing in the background for a chill day
 
 the music been played and ambience sounds can be changed from the youtube links inside the script
-usage
+
+##usage
+---
 
 clone the repo from https://github.com/addyett/pomodorow.git
 
